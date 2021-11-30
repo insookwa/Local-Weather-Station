@@ -1,0 +1,52 @@
+.....
+Connected to WiFi network with IP Address: 192.168.0.101
+DHTxx test!
+Humidity: 44.00%  Temperature: 28.20°C 82.76°F  Heat index: 28.15°C 82.66°F
+httpRequestData: &value1=28.20&value2=44.00&value3=28.15
+HTTP Response code: 200
+Humidity: 43.00%  Temperature: 28.20°C 82.76°F  Heat index: 28.07°C 82.52°F
+httpRequestData: &value1=28.20&value2=43.00&value3=28.07
+HTTP Response code: 200
+Humidity: 42.00%  Temperature: 28.30°C 82.94°F  Heat index: 28.08°C 82.55°F
+httpRequestData: &value1=28.30&value2=42.00&value3=28.08
+HTTP Response code: 200
+Humidity: 41.00%  Temperature: 28.40°C 83.12°F  Heat index: 28.10°C 82.58°F
+httpRequestData: &value1=28.40&value2=41.00&value3=28.10
+HTTP Response code: 200
+Humidity: 40.00%  Temperature: 28.40°C 83.12°F  Heat index: 28.02°C 82.44°F
+httpRequestData: &value1=28.40&value2=40.00&value3=28.02
+HTTP Response code: 200
+Humidity: 40.00%  Temperature: 28.40°C 83.12°F  Heat index: 28.02°C 82.44°F
+httpRequestData: &value1=28.40&value2=40.00&value3=28.02
+HTTP Response code: 200
+Humidity: 40.00%  Temperature: 28.40°C 83.12°F  Heat index: 28.02°C 82.44°F
+httpRequestData: &value1=28.40&value2=40.00&value3=28.02
+HTTP Response code: 200
+Connecting
+.......
+Connected to WiFi network with IP Address: 192.168.0.101
+DHTxx test!
+Humidity: 40.00%  Temperature: 28.40°C 83.12°F  Heat index: 28.02°C 82.44°F
+httpRequestData: &temperature=28.40&humidity=40.00
+HTTP Response code: 200
+Humidity: 39.00%  Temperature: 28.40°C 83.12°F  Heat index: 27.95°C 82.31°F
+httpRequestData: &temperature=28.40&humidity=39.00
+HTTP Response code: 200
+Humidity: 39.00%  Temperature: 28.40°C 83.12°F  Heat index: 27.95°C 82.31°F
+httpRequestData: &temperature=28.40&humidity=39.00
+HTTP Response code: 200
+Humidity: 38.00%  Temperature: 28.30°C 82.94°F  Heat index: 27.79°C 82.02°F
+httpRequestData: &temperature=28.30&humidity=38.00
+HTTP Response code: 200
+Humidity: 39.00%  Temperature: 28.30°C 82.94°F  Heat index: 27.86°C 82.15°F
+httpRequestData: &temperature=28.30&humidity=39.00
+HTTP Response code: 200
+Humidity: 39.00%  Temperature: 28.30°C 82.94°F  Heat index: 27.86°C 82.15°F
+httpRequestData: &temperature=28.30&humidity=39.00
+HTTP Response code: 200
+Humidity: 39.00%  Temperature: 28.30°C 82.94°F  Heat index: 27.86°C 82.15°F
+httpRequestData: &temperature=28.30&humidity=39.00
+HTTP Response code: 200
+Humidity: 39.00%  Temperature: 28.30°C 82.94°F  Heat index: 27.86°C 82.15°F
+httpRequestData: &temperature=28.30&humidity=39.00
+HTTP Response code: 200
